@@ -28,8 +28,8 @@ Simplounge is a self-hosted Minecraft server featuring a custom resource pack an
 
 ## Contact
 
-- **Discord**: *(Coming soon)*
-- **Website**: *(Coming soon)*
+- **Discord**: (https://discord.gg/uKMyU3sfh2)
+- **Website**: (https://clubtopia.eu/)
 
 ---
 
