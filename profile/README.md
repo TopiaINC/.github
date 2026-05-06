@@ -1,4 +1,4 @@
-# Simplounge
+# Clubtopia
 **A custom Minecraft server experience**
 
 ---
