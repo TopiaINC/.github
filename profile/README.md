@@ -40,5 +40,5 @@ All content is proprietary unless otherwise specified.
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by the Simplounge team</sub>
+  <sub>Built with ❤️ by the Clubtopia team</sub>
 </div>
